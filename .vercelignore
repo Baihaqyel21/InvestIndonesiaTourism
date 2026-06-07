@@ -1,0 +1,11 @@
+Gambar/
+downloads/
+content/
+dist/
+node_modules/
+.vite/
+*.tsbuildinfo
+Brief Prototype Microsite.pdf
+Color Palette Microsite.pdf
+Original PNG Kemenpar.png
+Favicon Kemenpar.png
