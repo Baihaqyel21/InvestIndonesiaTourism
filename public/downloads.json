@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Indonesia Tourism Investment Guide",
+    "category": "Investment Guide",
+    "destination": "National",
+    "year": 2026,
+    "file": "downloads/investment-guide.pdf",
+    "description": "Prototype overview for investors evaluating tourism opportunities across Indonesia."
+  },
+  {
+    "title": "Tourism Investment Licensing Checklist",
+    "category": "Licensing",
+    "destination": "National",
+    "year": 2026,
+    "file": "downloads/licensing-checklist.pdf",
+    "description": "Prototype checklist for OSS/NIB preparation and tourism licensing readiness."
+  },
+  {
+    "title": "Danau Toba Investment Memorandum",
+    "category": "Investment Memorandum",
+    "destination": "Danau Toba",
+    "year": 2026,
+    "file": "downloads/investment-memorandum-danau-toba.pdf",
+    "description": "Prototype destination memorandum for Danau Toba tourism investment opportunities."
+  },
+  {
+    "title": "Borobudur Investment Memorandum",
+    "category": "Investment Memorandum",
+    "destination": "Borobudur",
+    "year": 2026,
+    "file": "downloads/investment-memorandum-borobudur.pdf",
+    "description": "Prototype destination memorandum for Borobudur tourism investment opportunities."
+  },
+  {
+    "title": "Mandalika Investment Memorandum",
+    "category": "Investment Memorandum",
+    "destination": "Mandalika",
+    "year": 2026,
+    "file": "downloads/investment-memorandum-mandalika.pdf",
+    "description": "Prototype destination memorandum for Mandalika tourism investment opportunities."
+  },
+  {
+    "title": "Labuan Bajo Investment Memorandum",
+    "category": "Investment Memorandum",
+    "destination": "Labuan Bajo",
+    "year": 2026,
+    "file": "downloads/investment-memorandum-labuan-bajo.pdf",
+    "description": "Prototype destination memorandum for Labuan Bajo tourism investment opportunities."
+  },
+  {
+    "title": "Likupang Investment Memorandum",
+    "category": "Investment Memorandum",
+    "destination": "Likupang",
+    "year": 2026,
+    "file": "downloads/investment-memorandum-likupang.pdf",
+    "description": "Prototype destination memorandum for Likupang tourism investment opportunities."
+  },
+  {
+    "title": "Tourism SEZ Opportunities Overview",
+    "category": "Investment Memorandum",
+    "destination": "Tourism SEZ",
+    "year": 2026,
+    "file": "downloads/tourism-sez-opportunities-overview.pdf",
+    "description": "Prototype overview for tourism-oriented Special Economic Zone opportunities."
+  }
+]

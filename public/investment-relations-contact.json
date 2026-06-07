@@ -1,0 +1,12 @@
+{
+  "displayName": "Indonesia Tourism Investment Relations Desk",
+  "organization": "Ministry of Tourism, Republic of Indonesia",
+  "role": "General investment inquiry contact for tourism opportunities",
+  "email": "investment.tourism@kemenpar.go.id",
+  "whatsapp": "+6281119502026",
+  "responseSla": "Usually responds within 1 business day",
+  "officeHours": "Monday-Friday, 09:00-17:00 WIB",
+  "mailtoSubjectTemplate": "Investment inquiry - Invest in Indonesia Tourism",
+  "whatsappMessageTemplate": "Hello Indonesia Tourism Investment Relations Desk, I would like to ask about tourism investment opportunities in Indonesia.",
+  "prototypeNote": "Dummy contact for prototype use. Replace with approved official contact before public launch."
+}
